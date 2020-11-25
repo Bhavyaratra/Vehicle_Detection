@@ -2,7 +2,7 @@
 
 Last page update: **19/10/2016**
 
-Last version: **1.0.0** (see Release Notes for more info)
+Last version: **1.0.0** (see the Release Notes for more info)
 
 Hello everyone,
 An easy way to perform vehicle detection is by using Haar Cascades. Currently, I don't have a detailed tutorial about it, but you can get some extra information in the OpenCV homepage, see [Cascade Classifier](http://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html) page. See also [Cascade Classifier Training](http://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html) for training your own cascade classifier.
